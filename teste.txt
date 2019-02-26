@@ -1,1 +1,2 @@
-edicao do arquivo
+edicao do arquivo conflito
+linha adicional
